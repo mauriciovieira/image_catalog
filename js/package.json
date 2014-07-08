@@ -1,0 +1,15 @@
+{
+  "name": "image_catalog",
+  "version": "0.0.1",
+  "description": "Image catalog based on md5",
+  "main": "list_all.js",
+  "dependencies": {
+    "walk": "~2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mauricio Vieira",
+  "license": "BSD"
+}
